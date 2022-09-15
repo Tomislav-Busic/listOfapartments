@@ -119,7 +119,6 @@ li {
 }
 
 .second > button{
-    position: absolute;
     right: 3rem;
     padding: 5px 10px;
     background-color: aquamarine;
